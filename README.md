@@ -1,2 +1,1 @@
-# UnlimitedLavaSource
-Unlimited Lava Source Like You can do with Water
+Inspiration from https://github.com/BasicGearwheel/Infinite-Lava-Source
